@@ -1,8 +1,8 @@
- class conver
+public class conver
 {
 public static void main (String[]args)
 {
-	float x=3.14f;
-	int y=(int)x;
+	int x=10;
+	float y=x;
 System.out.println(y);
 }}
