@@ -1,4 +1,4 @@
-# hello
+// Print hello on screen using java code
 public class hellojava
 {
 public static void main(String args[])
